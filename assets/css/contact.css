@@ -69,6 +69,16 @@ body{
 	font-weight: 700;
 }
 
+a{
+	text-decoration: none;
+	color: white;
+}
+
+a:hover{
+	text-decoration: none;
+	color: white;
+}
+
 .fa-facebook:hover{
 	color: #3B5998;
 }
